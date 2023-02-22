@@ -87,7 +87,7 @@ iframe[name=page] {
     line-height: 10px;
 }
 .vmenu a:hover{
-    background: url('/Image/53363_bullet_yellow_icon.png') no-repeat left center;
+    background: url('Image/53363_bullet_yellow_icon.png') no-repeat left center;
     color: white;
     background-color: orange;
     border-bottom: 1px dotted white;
